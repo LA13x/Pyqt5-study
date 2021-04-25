@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # 创建窗口
     w = QWidget()
     # 设置尺寸和title
-    w.resize(500,400)
+    w.resize(500, 400)
     w.setWindowTitle("My First Window")
     # 显示窗口
     w.show()
